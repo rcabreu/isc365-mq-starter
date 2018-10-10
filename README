@@ -1,0 +1,5 @@
+Compilar: 
+    javac -cp \* App.java
+
+Correr:
+    java -cp \* App
