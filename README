@@ -2,4 +2,4 @@ Compilar:
     javac -cp \* App.java
 
 Correr:
-    java -cp \* App
+    java -cp .:\* App
